@@ -15,11 +15,40 @@ bun dev
 ```
  ## Screenshots of web page and payment integration
 
-![plot](https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js/blob/mainline/public/next.png?raw=true)
+![plot](https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js/blob/mainline/public/ss%201%20(1).png?raw=true))
 
+![plot](https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js/blob/mainline/public/ss%201%20(3).png?raw=true))
+
+### Visit the site and check [payment-integration-with-nextjs-and-nodejs](https://payment-integration-with-nextjs-an-yunushkh9-gmailcoms-projects.vercel.app/products)
+## Visit backend app for configuration [Node js file](https://github.com/Yunush1/payment-integration)
+
+### Add `.env` file 
 ```
-    
+RAZORPAY_ID = ""
+RAZORPAY_SECRET_ID=""
+MONGOOSE_URI = ""
+jwtUserSecret = userToken
+RADISE_URI = ""
 ```
+
+## For Razorpay id visit the razorpay [docs](https://dashboard.razorpay.com/app/website-app-settings/api-keys) 
+
+``
+Clone the Repository and add .env file run your app
+``
+
+### Clone the project open your `Command Promt` paste the Url
+
+## Frontend Project
+```
+git clone https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js.git
+```
+## Backend project
+```
+git clone https://github.com/Yunush1/payment-integration.git
+```
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
