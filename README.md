@@ -43,7 +43,7 @@ Clone the Repository and add .env file run your app
 ```
 git clone https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js.git
 ```
-## Backend project
+ ## Backend project
 ```
 git clone https://github.com/Yunush1/payment-integration.git
 ```
