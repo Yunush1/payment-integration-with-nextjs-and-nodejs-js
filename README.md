@@ -19,7 +19,7 @@ bun dev
 
 ![plot](https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js/blob/mainline/public/ss%201%20(3).png?raw=true))
 
-### Visit the site and check [payment-integration-with-nextjs-and-nodejs](https://payment-integration-with-nextjs-an-yunushkh9-gmailcoms-projects.vercel.app/products)
+### Visit the site and check [payment-integration-with-nextjs-and-nodejs](https://payment-integration-with-nextjs-7i8v.vercel.app/products)
 ## Visit backend app for configuration [Node js file](https://github.com/Yunush1/payment-integration)
 
 ### Add `.env` file 
