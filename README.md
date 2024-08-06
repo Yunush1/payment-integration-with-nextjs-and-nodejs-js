@@ -14,9 +14,9 @@ pnpm dev
 bun dev
 ```
  ## Screenshots of web page and payment integration
-<img src="https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js/blob/mainline/public/next.png" width="128"/>
 
-![plot]("https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js/blob/mainline/public/next.png")
+![plot](https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js/blob/mainline/public/next.png?raw=true)
+
 ```
     
 ```
