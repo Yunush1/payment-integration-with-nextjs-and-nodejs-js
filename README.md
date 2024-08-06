@@ -13,7 +13,13 @@ pnpm dev
 # or
 bun dev
 ```
+ ## Screenshots of web page and payment integration
+<img src="https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js/blob/mainline/public/next.png" width="128"/>
 
+![plot]("https://github.com/Yunush1/payment-integration-with-nextjs-and-nodejs-js/blob/mainline/public/next.png")
+```
+    
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
